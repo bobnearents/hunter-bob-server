@@ -1,0 +1,57 @@
+[
+  {
+    "imageURL": "https://assets3.thrillist.com/v1/image/2622128/size/tmg-slideshow_l.jpg",
+    "imageDescription": "Orange bengal cat with black stripes lounging on concrete.",
+    "name": "Fluffy",
+    "sex": "Female",
+    "age": 2,
+    "breed": "Bengal",
+    "story": "Thrown on the street",
+    "adopted": true,
+    "adoptedBy": "John Taylor"
+  },
+  {
+    "imageURL": "https://user-images.githubusercontent.com/45447942/56052248-c736fc80-5d05-11e9-98bd-80841cf6361e.jpg",
+    "imageDescription": "White kitten with blue eyes.",
+    "name": "Danger",
+    "sex": "Female",
+    "age": 1,
+    "breed": "Domestic Short Hair",
+    "story": "Too cute to handle",
+    "adopted": true,
+    "adoptedBy": "Jonathan Taylor Thomas"
+  },
+  {
+    "imageURL": "https://user-images.githubusercontent.com/45447942/56052271-d5851880-5d05-11e9-9fee-f2e82bc3d580.jpg",
+    "imageDescription": "black and white tabby",
+    "name": "Michael",
+    "sex": "Male",
+    "age": 1,
+    "breed": "Domestic Short Hair",
+    "story": "Stray Cat",
+    "adopted": false,
+    "adoptedBy": null
+  },
+  {
+    "imageURL": "https://user-images.githubusercontent.com/45447942/56052295-e2097100-5d05-11e9-8774-388d95b800d0.jpg",
+    "imageDescription": "Cat attempting to drink blood",
+    "name": "Dracula",
+    "sex": "Male",
+    "age": 400,
+    "breed": "Vampire",
+    "story": "Needed a break from Transylvania",
+    "adopted": false,
+    "adoptedBy": null
+  },
+  {
+    "imageURL": "https://user-images.githubusercontent.com/45447942/56052315-f0f02380-5d05-11e9-82bb-acba1d3ac053.jpg",
+    "imageDescription": "Tabby cat laying down",
+    "name": "Deborah",
+    "sex": "Female",
+    "age": 4,
+    "breed": "Tabby",
+    "story": "Ran away",
+    "adopted": false,
+    "adoptedBy": null
+  }
+]
